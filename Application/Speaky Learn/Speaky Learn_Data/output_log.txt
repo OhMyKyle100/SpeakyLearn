@@ -1,0 +1,103 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1116 MB
+    Driver:   10.18.15.4248
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.085 seconds
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Acer\Desktop\KSaparri\APARRI_GAMEPROD FILES FINALS\Speaky Learn\Speaky Learn_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.959790 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.412624 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 3.490871 ms (FindLiveObjects: 0.036828 ms CreateObjectMapping: 0.025357 ms MarkObjects: 0.326627 ms  DeleteObjects: 3.100850 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.802984 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 322.
+Total: 3.309143 ms (FindLiveObjects: 0.059771 ms CreateObjectMapping: 0.056148 ms MarkObjects: 0.273497 ms  DeleteObjects: 2.917914 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803588 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 5.536973 ms (FindLiveObjects: 0.047696 ms CreateObjectMapping: 0.051922 ms MarkObjects: 0.346551 ms  DeleteObjects: 5.088388 ms)
+
+i ontriggered with an Word 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i ontriggered with an Word 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.661707 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 3.248768 ms (FindLiveObjects: 0.041658 ms CreateObjectMapping: 0.025961 ms MarkObjects: 0.321797 ms  DeleteObjects: 2.858143 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[AudioSource] () [0x00000] in <filename unknown>:0 
+  at AddWords.ByeWord10 () [0x00000] in <filename unknown>:0 
+  at AddWords.<Start>m__9 () [0x00000] in <filename unknown>:0 
+  at AddWords.KeywordRecognizerOnPhraseRecognized (PhraseRecognizedEventArgs args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Windows.Speech.PhraseRecognizer.InvokePhraseRecognizedEvent (System.String text, ConfidenceLevel confidence, UnityEngine.Windows.Speech.SemanticMeaning[] semanticMeanings, Int64 phraseStartFileTime, Int64 phraseDurationTicks) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 219c -> priority: 1 
